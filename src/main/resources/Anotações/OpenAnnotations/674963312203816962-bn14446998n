@@ -1,11 +1,11 @@
-<http://example.org/anotação> a oa:Annotation ;
-    oa:motivatedBy oa:commenting ;
-    dcterms:creator <Babelfy> ;
-    dcterms:created <dataCriacao> 
-    oa:hasBody http://babelnet.org/rdf/s14446998n
-    oa:hasTarget [
-        oa:hasSource http://twitter.com/674963312203816962 ;
-        oa:hasSelector [
-            a oa:TextPositionSelector ;
-            oa:start 216 ;
-            oa:end 224] ] .
+<http://example.org/anotação> a <oa:Annotation> ;
+    <oa:motivatedBy> <oa:commenting> ;
+    <dcterms:creator> <Babelfy> ;
+    <dcterms:created> "<dataCriacao>"^^xsd:datetime ;
+    <oa:hasBody> _:body. http://babelnet.org/rdf/s14446998n
+    <oa:hasTarget> _:target.
+_:target    <oa:hasSource> <http://twitter.com/674963312203816962> ;
+    <oa:hasSelector> _:selector.
+_:selector    a <oa:TextPositionSelector> ;
+    <oa:start> "216"^^xsd:int  ;
+    <oa:end> "224"^^xsd:int.

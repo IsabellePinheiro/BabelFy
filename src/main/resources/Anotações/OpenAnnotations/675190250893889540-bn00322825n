@@ -1,13 +1,14 @@
-<http://example.org/anotação> a oa:Annotation ;
-    oa:motivatedBy oa:commenting ;
-    dcterms:creator <Babelfy> ;
-    dcterms:created <dataCriacao> 
-    oa:hasBody [
-        a oa:Choice ;
-        as:items (http://dbpedia.org/resource/DBpedia http://babelnet.org/rdf/s00322825n) ] 
-    oa:hasTarget [
-        oa:hasSource http://twitter.com/675190250893889540 ;
-        oa:hasSelector [
-            a oa:TextPositionSelector ;
-            oa:start 424 ;
-            oa:end 430] ] .
+<http://example.org/anotação> a <oa:Annotation> ;
+    <oa:motivatedBy> <oa:commenting> ;
+    <dcterms:creator> <Babelfy> ;
+    <dcterms:created> "<dataCriacao>"^^xsd:datetime ;
+    <oa:hasBody> _:body. 
+_:body    <oa:Choice> _:choice. ;
+_:choice    <oa:items> _:items. :
+_:items    <http://dbpedia.org/resource/DBpedia http://babelnet.org/rdf/s00322825n> 
+    <oa:hasTarget> _:target.
+_:target    <oa:hasSource> <http://twitter.com/675190250893889540> ;
+    <oa:hasSelector> _:selector.
+_:selector    a <oa:TextPositionSelector> ;
+    <oa:start> "424"^^xsd:int  ;
+    <oa:end> "430"^^xsd:int.

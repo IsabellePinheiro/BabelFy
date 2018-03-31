@@ -183,27 +183,30 @@ public class ManipuladorArquivos {
                     for (Object object : arrAnotacao) {
                             JSONObject json = (JSONObject) object;
 
-                            openAnnotation = "<http://example.org/anotação> a oa:Annotation ;\n"
-                                    + "    oa:motivatedBy oa:commenting ;\n"
-                                    + "    dcterms:creator <Babelfy> ;\n"
-                                    + "    dcterms:created <dataCriacao> \n";
+                            openAnnotation = "<http://example.org/anotação> a <oa:Annotation> ;\n"
+                                    + "    <oa:motivatedBy> <oa:commenting> ;\n"
+                                    + "    <dcterms:creator> <Babelfy> ;\n"
+                                    + "    <dcterms:created> \"<dataCriacao>\"^^xsd:datetime ;\n";
 
                             if (json.getString("DBpediaURL").equals("")) {
-                                openAnnotation += "    oa:hasBody " + json.getString("BabelNetURL") + "\n";
+                                openAnnotation += "    <oa:hasBody> _:body. " + json.getString("BabelNetURL") + "\n";
                             } else if (json.getString("BabelNetURL").equals("")) {
-                                openAnnotation += "    oa:hasBody " + json.getString("DBpediaURL") + "\n";
+                                openAnnotation += "    <oa:hasBody> _:body. " + json.getString("DBpediaURL") + "\n";
 
                             } else {
-                                openAnnotation += "    oa:hasBody [\n"
-                                        + "        a oa:Choice ;\n"
-                                        + "        as:items (" + json.getString("DBpediaURL") + " " + json.getString("BabelNetURL") + ") ] \n";
+                                openAnnotation += "    <oa:hasBody> _:body. \n"
+                                        + "_:body    <oa:Choice> _:choice. ;\n"
+                                        + "_:choice    <oa:items> _:items. :\n"
+                                        + "_:items    <" + json.getString("DBpediaURL") + " " + json.getString("BabelNetURL") + "> \n";
                             }
-                            openAnnotation += "    oa:hasTarget [\n"
-                                    + "        oa:hasSource http://twitter.com/" + json.get("tweet") + " ;\n"
-                                    + "        oa:hasSelector [\n"
-                                    + "            a oa:TextPositionSelector ;\n"
-                                    + "            oa:start " + json.getJSONObject("charFragment").getInt("start") + " ;\n"
-                                    + "            oa:end " + (json.getJSONObject("charFragment").getInt("end")) + "] ] .";
+                            openAnnotation += "    <oa:hasTarget> _:target.\n"
+                                    + "_:target    <oa:hasSource> <http://twitter.com/" + json.get("tweet") + "> ;\n"
+                                    + "    <oa:hasSelector> _:selector.\n"
+                                    + "_:selector    a <oa:TextPositionSelector> ;\n"
+                                    
+                                  
+                                    + "    <oa:start> \"" + json.getJSONObject("charFragment").getInt("start") + "\"^^xsd:int  ;\n"
+                                    + "    <oa:end> \"" + (json.getJSONObject("charFragment").getInt("end")) + "\"^^xsd:int.";
 
                             arquivo = new File("src/main/resources/Anotações/OpenAnnotations/" + json.get("tweet") + "-" + json.getString("babelSynsetID").replace(":", ""));
                             if (!arquivo.exists()) {
