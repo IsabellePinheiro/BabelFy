@@ -1,0 +1,452 @@
+[
+ {
+  "charFragment": {
+   "start": 10,
+   "end": 11
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 6,
+   "end": 6
+  },
+  "babelSynsetID": "bn:00015427n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Cape_(geography)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00015427n"
+ },
+ {
+  "charFragment": {
+   "start": 30,
+   "end": 32
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 9,
+   "end": 9
+  },
+  "babelSynsetID": "bn:00058062n",
+  "globalScore": 0.011914217633042097,
+  "source": "BABELFY",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0.2,
+  "DBpediaURL": "http://dbpedia.org/resource/North_Sea",
+  "BabelNetURL": "http://babelnet.org/rdf/s00058062n"
+ },
+ {
+  "charFragment": {
+   "start": 34,
+   "end": 47
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 10,
+   "end": 10
+  },
+  "babelSynsetID": "bn:00425753n",
+  "globalScore": 0.0023828435266084196,
+  "source": "BABELFY",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0.12,
+  "DBpediaURL": "http://dbpedia.org/resource/Radicalization",
+  "BabelNetURL": "http://babelnet.org/rdf/s00425753n"
+ },
+ {
+  "charFragment": {
+   "start": 52,
+   "end": 55
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 12,
+   "end": 12
+  },
+  "babelSynsetID": "bn:00050776n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Grievous_bodily_harm",
+  "BabelNetURL": "http://babelnet.org/rdf/s00050776n"
+ },
+ {
+  "charFragment": {
+   "start": 52,
+   "end": 65
+  },
+  "score": 0.8648648648648649,
+  "tokenFragment": {
+   "start": 12,
+   "end": 13
+  },
+  "babelSynsetID": "bn:03332102n",
+  "globalScore": 0.04236166269526079,
+  "source": "BABELFY",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0.32,
+  "DBpediaURL": "http://dbpedia.org/resource/Luke_Skywalker",
+  "BabelNetURL": "http://babelnet.org/rdf/s03332102n"
+ },
+ {
+  "charFragment": {
+   "start": 57,
+   "end": 65
+  },
+  "score": 0.84,
+  "tokenFragment": {
+   "start": 13,
+   "end": 13
+  },
+  "babelSynsetID": "bn:01771122n",
+  "globalScore": 0.022239872915011914,
+  "source": "BABELFY",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0.24,
+  "DBpediaURL": "http://dbpedia.org/resource/Skywalker_family",
+  "BabelNetURL": "http://babelnet.org/rdf/s01771122n"
+ },
+ {
+  "charFragment": {
+   "start": 82,
+   "end": 85
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 19,
+   "end": 19
+  },
+  "babelSynsetID": "bn:00061005n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00061005n"
+ },
+ {
+  "charFragment": {
+   "start": 90,
+   "end": 94
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 21,
+   "end": 21
+  },
+  "babelSynsetID": "bn:03070947n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Fi_sabilillah",
+  "BabelNetURL": "http://babelnet.org/rdf/s03070947n"
+ },
+ {
+  "charFragment": {
+   "start": 228,
+   "end": 236
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 63,
+   "end": 63
+  },
+  "babelSynsetID": "bn:01063743n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Whitelist",
+  "BabelNetURL": "http://babelnet.org/rdf/s01063743n"
+ },
+ {
+  "charFragment": {
+   "start": 240,
+   "end": 248
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 67,
+   "end": 67
+  },
+  "babelSynsetID": "bn:00067352n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Resource",
+  "BabelNetURL": "http://babelnet.org/rdf/s00067352n"
+ },
+ {
+  "charFragment": {
+   "start": 293,
+   "end": 302
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 78,
+   "end": 78
+  },
+  "babelSynsetID": "bn:00057380n",
+  "globalScore": 2.6476039184537993E-4,
+  "source": "BABELFY",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0.04,
+  "DBpediaURL": "http://dbpedia.org/resource/Television_network",
+  "BabelNetURL": "http://babelnet.org/rdf/s00057380n"
+ },
+ {
+  "charFragment": {
+   "start": 333,
+   "end": 339
+  },
+  "score": 0.8448275862068966,
+  "tokenFragment": {
+   "start": 95,
+   "end": 95
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.012973259200423616,
+  "source": "BABELFY",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0.28,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 341,
+   "end": 345
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 97,
+   "end": 97
+  },
+  "babelSynsetID": "bn:00001972n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00001972n"
+ },
+ {
+  "charFragment": {
+   "start": 347,
+   "end": 352
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 99,
+   "end": 99
+  },
+  "babelSynsetID": "bn:00069576n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Schema_(Kant)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00069576n"
+ },
+ {
+  "charFragment": {
+   "start": 354,
+   "end": 365
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 101,
+   "end": 101
+  },
+  "babelSynsetID": "bn:00059480n",
+  "globalScore": 0.13502779984114377,
+  "source": "BABELFY",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0.6,
+  "DBpediaURL": "http://dbpedia.org/resource/Organization",
+  "BabelNetURL": "http://babelnet.org/rdf/s00059480n"
+ },
+ {
+  "charFragment": {
+   "start": 367,
+   "end": 373
+  },
+  "score": 0.8448275862068966,
+  "tokenFragment": {
+   "start": 103,
+   "end": 103
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.012973259200423616,
+  "source": "BABELFY",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0.28,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 375,
+   "end": 386
+  },
+  "score": 0.7354596622889306,
+  "tokenFragment": {
+   "start": 105,
+   "end": 105
+  },
+  "babelSynsetID": "bn:00059480n",
+  "globalScore": 0.10378607360338893,
+  "source": "BABELFY",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0.56,
+  "DBpediaURL": "http://dbpedia.org/resource/Organization",
+  "BabelNetURL": "http://babelnet.org/rdf/s00059480n"
+ },
+ {
+  "charFragment": {
+   "start": 388,
+   "end": 394
+  },
+  "score": 0.8448275862068966,
+  "tokenFragment": {
+   "start": 107,
+   "end": 107
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.012973259200423616,
+  "source": "BABELFY",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0.28,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 396,
+   "end": 406
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 109,
+   "end": 109
+  },
+  "babelSynsetID": "bn:16781737n",
+  "globalScore": 0.004236166269526079,
+  "source": "BABELFY",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0.16,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s16781737n"
+ },
+ {
+  "charFragment": {
+   "start": 408,
+   "end": 413
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 111,
+   "end": 111
+  },
+  "babelSynsetID": "bn:00069576n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Schema_(Kant)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00069576n"
+ },
+ {
+  "charFragment": {
+   "start": 433,
+   "end": 439
+  },
+  "score": 0.8448275862068966,
+  "tokenFragment": {
+   "start": 115,
+   "end": 115
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.012973259200423616,
+  "source": "BABELFY",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0.28,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 476,
+   "end": 477
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 125,
+   "end": 125
+  },
+  "babelSynsetID": "bn:00015427n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Cape_(geography)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00015427n"
+ },
+ {
+  "charFragment": {
+   "start": 682,
+   "end": 685
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 182,
+   "end": 182
+  },
+  "babelSynsetID": "bn:00050776n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Grievous_bodily_harm",
+  "BabelNetURL": "http://babelnet.org/rdf/s00050776n"
+ },
+ {
+  "charFragment": {
+   "start": 682,
+   "end": 695
+  },
+  "score": 0.8648648648648649,
+  "tokenFragment": {
+   "start": 182,
+   "end": 183
+  },
+  "babelSynsetID": "bn:03332102n",
+  "globalScore": 0.04236166269526079,
+  "source": "BABELFY",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0.32,
+  "DBpediaURL": "http://dbpedia.org/resource/Luke_Skywalker",
+  "BabelNetURL": "http://babelnet.org/rdf/s03332102n"
+ },
+ {
+  "charFragment": {
+   "start": 687,
+   "end": 695
+  },
+  "score": 0.84,
+  "tokenFragment": {
+   "start": 183,
+   "end": 183
+  },
+  "babelSynsetID": "bn:01771122n",
+  "globalScore": 0.022239872915011914,
+  "source": "BABELFY",
+  "tweet": "676803867204538368",
+  "coherenceScore": 0.24,
+  "DBpediaURL": "http://dbpedia.org/resource/Skywalker_family",
+  "BabelNetURL": "http://babelnet.org/rdf/s01771122n"
+ }
+]

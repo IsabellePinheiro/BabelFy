@@ -1,0 +1,254 @@
+[
+ {
+  "charFragment": {
+   "start": 15,
+   "end": 22
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 7,
+   "end": 7
+  },
+  "babelSynsetID": "bn:00013142n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676804090760949760",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Delivery_(commerce)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00013142n"
+ },
+ {
+  "charFragment": {
+   "start": 38,
+   "end": 41
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 10,
+   "end": 10
+  },
+  "babelSynsetID": "bn:00043415n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676804090760949760",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Heat",
+  "BabelNetURL": "http://babelnet.org/rdf/s00043415n"
+ },
+ {
+  "charFragment": {
+   "start": 143,
+   "end": 151
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 50,
+   "end": 50
+  },
+  "babelSynsetID": "bn:01063743n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676804090760949760",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Whitelist",
+  "BabelNetURL": "http://babelnet.org/rdf/s01063743n"
+ },
+ {
+  "charFragment": {
+   "start": 155,
+   "end": 163
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 54,
+   "end": 54
+  },
+  "babelSynsetID": "bn:00067352n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676804090760949760",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Resource",
+  "BabelNetURL": "http://babelnet.org/rdf/s00067352n"
+ },
+ {
+  "charFragment": {
+   "start": 239,
+   "end": 245
+  },
+  "score": 0.8448275862068966,
+  "tokenFragment": {
+   "start": 79,
+   "end": 79
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.029733009708737865,
+  "source": "BABELFY",
+  "tweet": "676804090760949760",
+  "coherenceScore": 0.5384615384615384,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 247,
+   "end": 251
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 81,
+   "end": 81
+  },
+  "babelSynsetID": "bn:00001972n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676804090760949760",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00001972n"
+ },
+ {
+  "charFragment": {
+   "start": 253,
+   "end": 258
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 83,
+   "end": 83
+  },
+  "babelSynsetID": "bn:00069576n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676804090760949760",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Schema_(Kant)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00069576n"
+ },
+ {
+  "charFragment": {
+   "start": 260,
+   "end": 271
+  },
+  "score": 0.952755905511811,
+  "tokenFragment": {
+   "start": 85,
+   "end": 85
+  },
+  "babelSynsetID": "bn:00059480n",
+  "globalScore": 0.22026699029126215,
+  "source": "BABELFY",
+  "tweet": "676804090760949760",
+  "coherenceScore": 0.8461538461538461,
+  "DBpediaURL": "http://dbpedia.org/resource/Organization",
+  "BabelNetURL": "http://babelnet.org/rdf/s00059480n"
+ },
+ {
+  "charFragment": {
+   "start": 273,
+   "end": 279
+  },
+  "score": 0.8448275862068966,
+  "tokenFragment": {
+   "start": 87,
+   "end": 87
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.029733009708737865,
+  "source": "BABELFY",
+  "tweet": "676804090760949760",
+  "coherenceScore": 0.5384615384615384,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 281,
+   "end": 292
+  },
+  "score": 0.7595238095238095,
+  "tokenFragment": {
+   "start": 89,
+   "end": 89
+  },
+  "babelSynsetID": "bn:00059480n",
+  "globalScore": 0.19356796116504854,
+  "source": "BABELFY",
+  "tweet": "676804090760949760",
+  "coherenceScore": 0.8461538461538461,
+  "DBpediaURL": "http://dbpedia.org/resource/Organization",
+  "BabelNetURL": "http://babelnet.org/rdf/s00059480n"
+ },
+ {
+  "charFragment": {
+   "start": 294,
+   "end": 300
+  },
+  "score": 0.8448275862068966,
+  "tokenFragment": {
+   "start": 91,
+   "end": 91
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.029733009708737865,
+  "source": "BABELFY",
+  "tweet": "676804090760949760",
+  "coherenceScore": 0.5384615384615384,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 302,
+   "end": 312
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 93,
+   "end": 93
+  },
+  "babelSynsetID": "bn:16781737n",
+  "globalScore": 0.0024271844660194173,
+  "source": "BABELFY",
+  "tweet": "676804090760949760",
+  "coherenceScore": 0.15384615384615385,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s16781737n"
+ },
+ {
+  "charFragment": {
+   "start": 314,
+   "end": 319
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 95,
+   "end": 95
+  },
+  "babelSynsetID": "bn:00069576n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676804090760949760",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Schema_(Kant)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00069576n"
+ },
+ {
+  "charFragment": {
+   "start": 339,
+   "end": 345
+  },
+  "score": 0.8448275862068966,
+  "tokenFragment": {
+   "start": 99,
+   "end": 99
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.029733009708737865,
+  "source": "BABELFY",
+  "tweet": "676804090760949760",
+  "coherenceScore": 0.5384615384615384,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ }
+]

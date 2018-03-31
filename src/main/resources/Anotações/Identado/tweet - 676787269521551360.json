@@ -1,0 +1,164 @@
+[
+ {
+  "charFragment": {
+   "start": 13,
+   "end": 16
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 7,
+   "end": 7
+  },
+  "babelSynsetID": "bn:00073964n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676787269521551360",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Star",
+  "BabelNetURL": "http://babelnet.org/rdf/s00073964n"
+ },
+ {
+  "charFragment": {
+   "start": 23,
+   "end": 27
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 9,
+   "end": 9
+  },
+  "babelSynsetID": "bn:00036522n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676787269521551360",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Match",
+  "BabelNetURL": "http://babelnet.org/rdf/s00036522n"
+ },
+ {
+  "charFragment": {
+   "start": 32,
+   "end": 36
+  },
+  "score": 0.731404958677686,
+  "tokenFragment": {
+   "start": 11,
+   "end": 11
+  },
+  "babelSynsetID": "bn:03474703n",
+  "globalScore": 0.05795677799607073,
+  "source": "BABELFY",
+  "tweet": "676787269521551360",
+  "coherenceScore": 0.3333333333333333,
+  "DBpediaURL": "http://dbpedia.org/resource/R2-D2",
+  "BabelNetURL": "http://babelnet.org/rdf/s03474703n"
+ },
+ {
+  "charFragment": {
+   "start": 39,
+   "end": 41
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 13,
+   "end": 13
+  },
+  "babelSynsetID": "bn:00081135n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676787269521551360",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/World_Health_Organization",
+  "BabelNetURL": "http://babelnet.org/rdf/s00081135n"
+ },
+ {
+  "charFragment": {
+   "start": 188,
+   "end": 196
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 58,
+   "end": 58
+  },
+  "babelSynsetID": "bn:01063743n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676787269521551360",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Whitelist",
+  "BabelNetURL": "http://babelnet.org/rdf/s01063743n"
+ },
+ {
+  "charFragment": {
+   "start": 200,
+   "end": 208
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 62,
+   "end": 62
+  },
+  "babelSynsetID": "bn:00067352n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676787269521551360",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Resource",
+  "BabelNetURL": "http://babelnet.org/rdf/s00067352n"
+ },
+ {
+  "charFragment": {
+   "start": 306,
+   "end": 309
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 94,
+   "end": 94
+  },
+  "babelSynsetID": "bn:00073964n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676787269521551360",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Star",
+  "BabelNetURL": "http://babelnet.org/rdf/s00073964n"
+ },
+ {
+  "charFragment": {
+   "start": 311,
+   "end": 314
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 95,
+   "end": 95
+  },
+  "babelSynsetID": "bn:00080439n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676787269521551360",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Warfare",
+  "BabelNetURL": "http://babelnet.org/rdf/s00080439n"
+ },
+ {
+  "charFragment": {
+   "start": 508,
+   "end": 512
+  },
+  "score": 0.731404958677686,
+  "tokenFragment": {
+   "start": 152,
+   "end": 152
+  },
+  "babelSynsetID": "bn:03474703n",
+  "globalScore": 0.05795677799607073,
+  "source": "BABELFY",
+  "tweet": "676787269521551360",
+  "coherenceScore": 0.3333333333333333,
+  "DBpediaURL": "http://dbpedia.org/resource/R2-D2",
+  "BabelNetURL": "http://babelnet.org/rdf/s03474703n"
+ }
+]

@@ -1,0 +1,362 @@
+[
+ {
+  "charFragment": {
+   "start": 10,
+   "end": 11
+  },
+  "score": 0.8,
+  "tokenFragment": {
+   "start": 6,
+   "end": 6
+  },
+  "babelSynsetID": "bn:00048376n",
+  "globalScore": 0.033112582781456956,
+  "source": "BABELFY",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0.4,
+  "DBpediaURL": "http://dbpedia.org/resource/Joint-stock_company",
+  "BabelNetURL": "http://babelnet.org/rdf/s00048376n"
+ },
+ {
+  "charFragment": {
+   "start": 69,
+   "end": 73
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 14,
+   "end": 14
+  },
+  "babelSynsetID": "bn:00012789n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Brass",
+  "BabelNetURL": "http://babelnet.org/rdf/s00012789n"
+ },
+ {
+  "charFragment": {
+   "start": 69,
+   "end": 80
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 14,
+   "end": 15
+  },
+  "babelSynsetID": "bn:01316266n",
+  "globalScore": 0.0024834437086092716,
+  "source": "BABELFY",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0.15,
+  "DBpediaURL": "http://dbpedia.org/resource/Film_promotion",
+  "BabelNetURL": "http://babelnet.org/rdf/s01316266n"
+ },
+ {
+  "charFragment": {
+   "start": 75,
+   "end": 80
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 15,
+   "end": 15
+  },
+  "babelSynsetID": "bn:00048639n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Junket_(dessert)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00048639n"
+ },
+ {
+  "charFragment": {
+   "start": 85,
+   "end": 86
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 17,
+   "end": 17
+  },
+  "babelSynsetID": "bn:00006882n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Tellurium",
+  "BabelNetURL": "http://babelnet.org/rdf/s00006882n"
+ },
+ {
+  "charFragment": {
+   "start": 99,
+   "end": 106
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 20,
+   "end": 20
+  },
+  "babelSynsetID": "bn:00045772n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Image",
+  "BabelNetURL": "http://babelnet.org/rdf/s00045772n"
+ },
+ {
+  "charFragment": {
+   "start": 226,
+   "end": 234
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 63,
+   "end": 63
+  },
+  "babelSynsetID": "bn:14446998n",
+  "globalScore": 2.759381898454746E-4,
+  "source": "BABELFY",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0.05,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s14446998n"
+ },
+ {
+  "charFragment": {
+   "start": 238,
+   "end": 246
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 67,
+   "end": 67
+  },
+  "babelSynsetID": "bn:00067352n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Resource",
+  "BabelNetURL": "http://babelnet.org/rdf/s00067352n"
+ },
+ {
+  "charFragment": {
+   "start": 291,
+   "end": 300
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 78,
+   "end": 78
+  },
+  "babelSynsetID": "bn:00057380n",
+  "globalScore": 0.004415011037527594,
+  "source": "BABELFY",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0.2,
+  "DBpediaURL": "http://dbpedia.org/resource/Television_network",
+  "BabelNetURL": "http://babelnet.org/rdf/s00057380n"
+ },
+ {
+  "charFragment": {
+   "start": 331,
+   "end": 337
+  },
+  "score": 0.8888888888888888,
+  "tokenFragment": {
+   "start": 95,
+   "end": 95
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.019867549668874173,
+  "source": "BABELFY",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0.4,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 339,
+   "end": 343
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 97,
+   "end": 97
+  },
+  "babelSynsetID": "bn:00001972n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00001972n"
+ },
+ {
+  "charFragment": {
+   "start": 345,
+   "end": 350
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 99,
+   "end": 99
+  },
+  "babelSynsetID": "bn:00069576n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Schema_(Kant)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00069576n"
+ },
+ {
+  "charFragment": {
+   "start": 352,
+   "end": 363
+  },
+  "score": 0.9787928221859706,
+  "tokenFragment": {
+   "start": 101,
+   "end": 101
+  },
+  "babelSynsetID": "bn:00059480n",
+  "globalScore": 0.16556291390728478,
+  "source": "BABELFY",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0.75,
+  "DBpediaURL": "http://dbpedia.org/resource/Organization",
+  "BabelNetURL": "http://babelnet.org/rdf/s00059480n"
+ },
+ {
+  "charFragment": {
+   "start": 365,
+   "end": 371
+  },
+  "score": 0.8888888888888888,
+  "tokenFragment": {
+   "start": 103,
+   "end": 103
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.019867549668874173,
+  "source": "BABELFY",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0.4,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 373,
+   "end": 384
+  },
+  "score": 0.7352941176470589,
+  "tokenFragment": {
+   "start": 105,
+   "end": 105
+  },
+  "babelSynsetID": "bn:00059480n",
+  "globalScore": 0.14486754966887416,
+  "source": "BABELFY",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0.75,
+  "DBpediaURL": "http://dbpedia.org/resource/Organization",
+  "BabelNetURL": "http://babelnet.org/rdf/s00059480n"
+ },
+ {
+  "charFragment": {
+   "start": 386,
+   "end": 392
+  },
+  "score": 0.8888888888888888,
+  "tokenFragment": {
+   "start": 107,
+   "end": 107
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.019867549668874173,
+  "source": "BABELFY",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0.4,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 394,
+   "end": 404
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 109,
+   "end": 109
+  },
+  "babelSynsetID": "bn:16781737n",
+  "globalScore": 0.004415011037527594,
+  "source": "BABELFY",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0.2,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s16781737n"
+ },
+ {
+  "charFragment": {
+   "start": 406,
+   "end": 411
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 111,
+   "end": 111
+  },
+  "babelSynsetID": "bn:00069576n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Schema_(Kant)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00069576n"
+ },
+ {
+  "charFragment": {
+   "start": 431,
+   "end": 437
+  },
+  "score": 0.8888888888888888,
+  "tokenFragment": {
+   "start": 115,
+   "end": 115
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.019867549668874173,
+  "source": "BABELFY",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0.4,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 474,
+   "end": 475
+  },
+  "score": 0.8,
+  "tokenFragment": {
+   "start": 125,
+   "end": 125
+  },
+  "babelSynsetID": "bn:00048376n",
+  "globalScore": 0.033112582781456956,
+  "source": "BABELFY",
+  "tweet": "675179433469345792",
+  "coherenceScore": 0.4,
+  "DBpediaURL": "http://dbpedia.org/resource/Joint-stock_company",
+  "BabelNetURL": "http://babelnet.org/rdf/s00048376n"
+ }
+]

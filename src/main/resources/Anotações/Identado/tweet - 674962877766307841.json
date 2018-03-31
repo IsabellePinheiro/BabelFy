@@ -1,0 +1,488 @@
+[
+ {
+  "charFragment": {
+   "start": 10,
+   "end": 11
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 6,
+   "end": 6
+  },
+  "babelSynsetID": "bn:00015427n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Cape_(geography)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00015427n"
+ },
+ {
+  "charFragment": {
+   "start": 38,
+   "end": 42
+  },
+  "score": 0.7473958333333334,
+  "tokenFragment": {
+   "start": 11,
+   "end": 11
+  },
+  "babelSynsetID": "bn:00055644n",
+  "globalScore": 0.0516698172652804,
+  "source": "BABELFY",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0.5384615384615384,
+  "DBpediaURL": "http://dbpedia.org/resource/Money",
+  "BabelNetURL": "http://babelnet.org/rdf/s00055644n"
+ },
+ {
+  "charFragment": {
+   "start": 49,
+   "end": 53
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 14,
+   "end": 14
+  },
+  "babelSynsetID": "bn:00103500a",
+  "globalScore": 9.001710324961742E-5,
+  "source": "BABELFY",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0.038461538461538464,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00103500a"
+ },
+ {
+  "charFragment": {
+   "start": 55,
+   "end": 58
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 15,
+   "end": 15
+  },
+  "babelSynsetID": "bn:00071525n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Signal_(bridge)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00071525n"
+ },
+ {
+  "charFragment": {
+   "start": 64,
+   "end": 66
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 17,
+   "end": 17
+  },
+  "babelSynsetID": "bn:00062965n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Supernatural_(season_2)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00062965n"
+ },
+ {
+  "charFragment": {
+   "start": 64,
+   "end": 73
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 17,
+   "end": 18
+  },
+  "babelSynsetID": "bn:00062965n",
+  "globalScore": 0.00594112881447475,
+  "source": "BABELFY",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0.23076923076923078,
+  "DBpediaURL": "http://dbpedia.org/resource/Supernatural_(season_2)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00062965n"
+ },
+ {
+  "charFragment": {
+   "start": 68,
+   "end": 73
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 18,
+   "end": 18
+  },
+  "babelSynsetID": "bn:00052910n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Bully_Records",
+  "BabelNetURL": "http://babelnet.org/rdf/s00052910n"
+ },
+ {
+  "charFragment": {
+   "start": 79,
+   "end": 87
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 20,
+   "end": 20
+  },
+  "babelSynsetID": "bn:00067419n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00067419n"
+ },
+ {
+  "charFragment": {
+   "start": 115,
+   "end": 117
+  },
+  "score": 0.983906046107003,
+  "tokenFragment": {
+   "start": 24,
+   "end": 24
+  },
+  "babelSynsetID": "bn:00003341n",
+  "globalScore": 0.20361868755063461,
+  "source": "BABELFY",
+  "tweet": "674962877766307841",
+  "coherenceScore": 1,
+  "DBpediaURL": "http://dbpedia.org/resource/United_States",
+  "BabelNetURL": "http://babelnet.org/rdf/s00003341n"
+ },
+ {
+  "charFragment": {
+   "start": 120,
+   "end": 122
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 26,
+   "end": 26
+  },
+  "babelSynsetID": "bn:00053765n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Mat",
+  "BabelNetURL": "http://babelnet.org/rdf/s00053765n"
+ },
+ {
+  "charFragment": {
+   "start": 226,
+   "end": 234
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 66,
+   "end": 66
+  },
+  "babelSynsetID": "bn:01063743n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Whitelist",
+  "BabelNetURL": "http://babelnet.org/rdf/s01063743n"
+ },
+ {
+  "charFragment": {
+   "start": 238,
+   "end": 246
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 70,
+   "end": 70
+  },
+  "babelSynsetID": "bn:00067352n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Resource",
+  "BabelNetURL": "http://babelnet.org/rdf/s00067352n"
+ },
+ {
+  "charFragment": {
+   "start": 291,
+   "end": 300
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 81,
+   "end": 81
+  },
+  "babelSynsetID": "bn:00057380n",
+  "globalScore": 8.101539292465569E-4,
+  "source": "BABELFY",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0.11538461538461539,
+  "DBpediaURL": "http://dbpedia.org/resource/Television_network",
+  "BabelNetURL": "http://babelnet.org/rdf/s00057380n"
+ },
+ {
+  "charFragment": {
+   "start": 331,
+   "end": 337
+  },
+  "score": 0.8,
+  "tokenFragment": {
+   "start": 98,
+   "end": 98
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.009001710324961743,
+  "source": "BABELFY",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0.38461538461538464,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 339,
+   "end": 343
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 100,
+   "end": 100
+  },
+  "babelSynsetID": "bn:00001972n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00001972n"
+ },
+ {
+  "charFragment": {
+   "start": 345,
+   "end": 350
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 102,
+   "end": 102
+  },
+  "babelSynsetID": "bn:00069576n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Schema_(Kant)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00069576n"
+ },
+ {
+  "charFragment": {
+   "start": 352,
+   "end": 363
+  },
+  "score": 0.965034965034965,
+  "tokenFragment": {
+   "start": 104,
+   "end": 104
+  },
+  "babelSynsetID": "bn:00059480n",
+  "globalScore": 0.07453416149068323,
+  "source": "BABELFY",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0.6923076923076923,
+  "DBpediaURL": "http://dbpedia.org/resource/Organization",
+  "BabelNetURL": "http://babelnet.org/rdf/s00059480n"
+ },
+ {
+  "charFragment": {
+   "start": 365,
+   "end": 371
+  },
+  "score": 0.8,
+  "tokenFragment": {
+   "start": 106,
+   "end": 106
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.009001710324961743,
+  "source": "BABELFY",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0.38461538461538464,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 373,
+   "end": 384
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 108,
+   "end": 108
+  },
+  "babelSynsetID": "bn:00059480n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Organization",
+  "BabelNetURL": "http://babelnet.org/rdf/s00059480n"
+ },
+ {
+  "charFragment": {
+   "start": 386,
+   "end": 392
+  },
+  "score": 0.8,
+  "tokenFragment": {
+   "start": 110,
+   "end": 110
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.009001710324961743,
+  "source": "BABELFY",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0.38461538461538464,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 394,
+   "end": 404
+  },
+  "score": 0.8620689655172413,
+  "tokenFragment": {
+   "start": 112,
+   "end": 112
+  },
+  "babelSynsetID": "bn:16781737n",
+  "globalScore": 0.0022504275812404357,
+  "source": "BABELFY",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0.19230769230769232,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s16781737n"
+ },
+ {
+  "charFragment": {
+   "start": 406,
+   "end": 411
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 114,
+   "end": 114
+  },
+  "babelSynsetID": "bn:00069576n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Schema_(Kant)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00069576n"
+ },
+ {
+  "charFragment": {
+   "start": 431,
+   "end": 437
+  },
+  "score": 0.8,
+  "tokenFragment": {
+   "start": 118,
+   "end": 118
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.009001710324961743,
+  "source": "BABELFY",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0.38461538461538464,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 474,
+   "end": 475
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 128,
+   "end": 128
+  },
+  "babelSynsetID": "bn:00015427n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Cape_(geography)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00015427n"
+ },
+ {
+  "charFragment": {
+   "start": 653,
+   "end": 659
+  },
+  "score": 0.8,
+  "tokenFragment": {
+   "start": 178,
+   "end": 178
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.009001710324961743,
+  "source": "BABELFY",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0.38461538461538464,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 661,
+   "end": 667
+  },
+  "score": 0.896797153024911,
+  "tokenFragment": {
+   "start": 180,
+   "end": 180
+  },
+  "babelSynsetID": "bn:00027546n",
+  "globalScore": 0.022684310018903593,
+  "source": "BABELFY",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0.46153846153846156,
+  "DBpediaURL": "http://dbpedia.org/resource/Disease",
+  "BabelNetURL": "http://babelnet.org/rdf/s00027546n"
+ },
+ {
+  "charFragment": {
+   "start": 686,
+   "end": 690
+  },
+  "score": 0.7994428969359332,
+  "tokenFragment": {
+   "start": 188,
+   "end": 188
+  },
+  "babelSynsetID": "bn:00055644n",
+  "globalScore": 0.0516698172652804,
+  "source": "BABELFY",
+  "tweet": "674962877766307841",
+  "coherenceScore": 0.5384615384615384,
+  "DBpediaURL": "http://dbpedia.org/resource/Money",
+  "BabelNetURL": "http://babelnet.org/rdf/s00055644n"
+ }
+]

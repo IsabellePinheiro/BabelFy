@@ -1,0 +1,11 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <Babelfy> ;
+    dcterms:created <dataCriacao> 
+    oa:hasBody http://babelnet.org/rdf/s00097966a
+    oa:hasTarget [
+        oa:hasSource http://twitter.com/675569570325864448 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 44 ;
+            oa:end 46] ] .

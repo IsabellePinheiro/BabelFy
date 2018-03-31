@@ -1,0 +1,13 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <Babelfy> ;
+    dcterms:created <dataCriacao> 
+    oa:hasBody [
+        a oa:Choice ;
+        as:items (http://dbpedia.org/resource/Wakefulness http://babelnet.org/rdf/s00080351n) ] 
+    oa:hasTarget [
+        oa:hasSource http://twitter.com/674963312203816962 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 76 ;
+            oa:end 82] ] .

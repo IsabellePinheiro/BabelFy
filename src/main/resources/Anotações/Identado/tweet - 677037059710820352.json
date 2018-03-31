@@ -1,0 +1,92 @@
+[
+ {
+  "charFragment": {
+   "start": 27,
+   "end": 32
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 8,
+   "end": 8
+  },
+  "babelSynsetID": "bn:00007496n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "677037059710820352",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00007496n"
+ },
+ {
+  "charFragment": {
+   "start": 38,
+   "end": 42
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 11,
+   "end": 11
+  },
+  "babelSynsetID": "bn:00073964n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "677037059710820352",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Star",
+  "BabelNetURL": "http://babelnet.org/rdf/s00073964n"
+ },
+ {
+  "charFragment": {
+   "start": 44,
+   "end": 45
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 12,
+   "end": 12
+  },
+  "babelSynsetID": "bn:00098342a",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "677037059710820352",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00098342a"
+ },
+ {
+  "charFragment": {
+   "start": 79,
+   "end": 84
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 17,
+   "end": 17
+  },
+  "babelSynsetID": "bn:00023864n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "677037059710820352",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Review",
+  "BabelNetURL": "http://babelnet.org/rdf/s00023864n"
+ },
+ {
+  "charFragment": {
+   "start": 184,
+   "end": 192
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 57,
+   "end": 57
+  },
+  "babelSynsetID": "bn:01063743n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "677037059710820352",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Whitelist",
+  "BabelNetURL": "http://babelnet.org/rdf/s01063743n"
+ }
+]

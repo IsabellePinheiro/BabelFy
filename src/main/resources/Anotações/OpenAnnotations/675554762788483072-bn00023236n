@@ -1,0 +1,13 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <Babelfy> ;
+    dcterms:created <dataCriacao> 
+    oa:hasBody [
+        a oa:Choice ;
+        as:items (http://dbpedia.org/resource/State_(polity) http://babelnet.org/rdf/s00023236n) ] 
+    oa:hasTarget [
+        oa:hasSource http://twitter.com/675554762788483072 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 88 ;
+            oa:end 94] ] .

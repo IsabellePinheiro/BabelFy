@@ -1,0 +1,13 @@
+<http://example.org/anotação> a oa:Annotation ;
+    oa:motivatedBy oa:commenting ;
+    dcterms:creator <Babelfy> ;
+    dcterms:created <dataCriacao> 
+    oa:hasBody [
+        a oa:Choice ;
+        as:items (http://dbpedia.org/resource/Tellurium http://babelnet.org/rdf/s00006882n) ] 
+    oa:hasTarget [
+        oa:hasSource http://twitter.com/675179433469345792 ;
+        oa:hasSelector [
+            a oa:TextPositionSelector ;
+            oa:start 85 ;
+            oa:end 86] ] .

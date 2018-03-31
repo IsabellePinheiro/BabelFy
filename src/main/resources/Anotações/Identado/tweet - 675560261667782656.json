@@ -1,0 +1,668 @@
+[
+ {
+  "charFragment": {
+   "start": 10,
+   "end": 11
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 6,
+   "end": 6
+  },
+  "babelSynsetID": "bn:00015427n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Cape_(geography)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00015427n"
+ },
+ {
+  "charFragment": {
+   "start": 31,
+   "end": 32
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 11,
+   "end": 11
+  },
+  "babelSynsetID": "bn:00082727v",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00082727v"
+ },
+ {
+  "charFragment": {
+   "start": 34,
+   "end": 39
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 12,
+   "end": 12
+  },
+  "babelSynsetID": "bn:00095572v",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00095572v"
+ },
+ {
+  "charFragment": {
+   "start": 51,
+   "end": 54
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 15,
+   "end": 15
+  },
+  "babelSynsetID": "bn:00114354r",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00114354r"
+ },
+ {
+  "charFragment": {
+   "start": 51,
+   "end": 57
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 15,
+   "end": 16
+  },
+  "babelSynsetID": "bn:13657096r",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s13657096r"
+ },
+ {
+  "charFragment": {
+   "start": 61,
+   "end": 64
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 18,
+   "end": 18
+  },
+  "babelSynsetID": "bn:00089241v",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00089241v"
+ },
+ {
+  "charFragment": {
+   "start": 61,
+   "end": 67
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 18,
+   "end": 19
+  },
+  "babelSynsetID": "bn:13601282v",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s13601282v"
+ },
+ {
+  "charFragment": {
+   "start": 69,
+   "end": 73
+  },
+  "score": 0.8,
+  "tokenFragment": {
+   "start": 20,
+   "end": 20
+  },
+  "babelSynsetID": "bn:00085488v",
+  "globalScore": 0.0027879421502003832,
+  "source": "BABELFY",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0.11764705882352941,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00085488v"
+ },
+ {
+  "charFragment": {
+   "start": 69,
+   "end": 76
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 20,
+   "end": 21
+  },
+  "babelSynsetID": "bn:00095853v",
+  "globalScore": 0.0017424638438752395,
+  "source": "BABELFY",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0.058823529411764705,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00095853v"
+ },
+ {
+  "charFragment": {
+   "start": 92,
+   "end": 93
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 24,
+   "end": 24
+  },
+  "babelSynsetID": "bn:00116291r",
+  "globalScore": 3.484927687750479E-4,
+  "source": "BABELFY",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0.029411764705882353,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00116291r"
+ },
+ {
+  "charFragment": {
+   "start": 97,
+   "end": 100
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 26,
+   "end": 26
+  },
+  "babelSynsetID": "bn:00068049n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Rock_music",
+  "BabelNetURL": "http://babelnet.org/rdf/s00068049n"
+ },
+ {
+  "charFragment": {
+   "start": 97,
+   "end": 106
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 26,
+   "end": 27
+  },
+  "babelSynsetID": "bn:01463646n",
+  "globalScore": 0.0013939710751001916,
+  "source": "BABELFY",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0.058823529411764705,
+  "DBpediaURL": "http://dbpedia.org/resource/Rock_Solid",
+  "BabelNetURL": "http://babelnet.org/rdf/s01463646n"
+ },
+ {
+  "charFragment": {
+   "start": 102,
+   "end": 106
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 27,
+   "end": 27
+  },
+  "babelSynsetID": "bn:00072720n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Solid",
+  "BabelNetURL": "http://babelnet.org/rdf/s00072720n"
+ },
+ {
+  "charFragment": {
+   "start": 108,
+   "end": 113
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 28,
+   "end": 28
+  },
+  "babelSynsetID": "bn:00006566n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Pledge_(brand)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00006566n"
+ },
+ {
+  "charFragment": {
+   "start": 118,
+   "end": 121
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 31,
+   "end": 31
+  },
+  "babelSynsetID": "bn:00076666n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Will_and_testament",
+  "BabelNetURL": "http://babelnet.org/rdf/s00076666n"
+ },
+ {
+  "charFragment": {
+   "start": 123,
+   "end": 125
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 32,
+   "end": 32
+  },
+  "babelSynsetID": "bn:00116360r",
+  "globalScore": 0.017250392054364874,
+  "source": "BABELFY",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0.2647058823529412,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00116360r"
+ },
+ {
+  "charFragment": {
+   "start": 127,
+   "end": 132
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 33,
+   "end": 33
+  },
+  "babelSynsetID": "bn:00082553v",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00082553v"
+ },
+ {
+  "charFragment": {
+   "start": 143,
+   "end": 147
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 37,
+   "end": 37
+  },
+  "babelSynsetID": "bn:00045088n",
+  "globalScore": 0.036417494336992505,
+  "source": "BABELFY",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0.3235294117647059,
+  "DBpediaURL": "http://dbpedia.org/resource/Hypertext_Transfer_Protocol",
+  "BabelNetURL": "http://babelnet.org/rdf/s00045088n"
+ },
+ {
+  "charFragment": {
+   "start": 226,
+   "end": 234
+  },
+  "score": 0.8,
+  "tokenFragment": {
+   "start": 79,
+   "end": 79
+  },
+  "babelSynsetID": "bn:14446998n",
+  "globalScore": 6.969855375500958E-4,
+  "source": "BABELFY",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0.058823529411764705,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s14446998n"
+ },
+ {
+  "charFragment": {
+   "start": 238,
+   "end": 246
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 83,
+   "end": 83
+  },
+  "babelSynsetID": "bn:00067352n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Resource",
+  "BabelNetURL": "http://babelnet.org/rdf/s00067352n"
+ },
+ {
+  "charFragment": {
+   "start": 291,
+   "end": 300
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 94,
+   "end": 94
+  },
+  "babelSynsetID": "bn:00057380n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Television_network",
+  "BabelNetURL": "http://babelnet.org/rdf/s00057380n"
+ },
+ {
+  "charFragment": {
+   "start": 331,
+   "end": 337
+  },
+  "score": 0.711764705882353,
+  "tokenFragment": {
+   "start": 111,
+   "end": 111
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.0210838125108904,
+  "source": "BABELFY",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0.3235294117647059,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 339,
+   "end": 343
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 113,
+   "end": 113
+  },
+  "babelSynsetID": "bn:00001972n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00001972n"
+ },
+ {
+  "charFragment": {
+   "start": 345,
+   "end": 350
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 115,
+   "end": 115
+  },
+  "babelSynsetID": "bn:00069576n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Schema_(Kant)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00069576n"
+ },
+ {
+  "charFragment": {
+   "start": 352,
+   "end": 363
+  },
+  "score": 0.9696969696969697,
+  "tokenFragment": {
+   "start": 117,
+   "end": 117
+  },
+  "babelSynsetID": "bn:00059480n",
+  "globalScore": 0.1003659174072138,
+  "source": "BABELFY",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0.5294117647058824,
+  "DBpediaURL": "http://dbpedia.org/resource/Organization",
+  "BabelNetURL": "http://babelnet.org/rdf/s00059480n"
+ },
+ {
+  "charFragment": {
+   "start": 365,
+   "end": 371
+  },
+  "score": 0.711764705882353,
+  "tokenFragment": {
+   "start": 119,
+   "end": 119
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.0210838125108904,
+  "source": "BABELFY",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0.3235294117647059,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 373,
+   "end": 384
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 121,
+   "end": 121
+  },
+  "babelSynsetID": "bn:00059480n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Organization",
+  "BabelNetURL": "http://babelnet.org/rdf/s00059480n"
+ },
+ {
+  "charFragment": {
+   "start": 386,
+   "end": 392
+  },
+  "score": 0.711764705882353,
+  "tokenFragment": {
+   "start": 123,
+   "end": 123
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.0210838125108904,
+  "source": "BABELFY",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0.3235294117647059,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 394,
+   "end": 404
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 125,
+   "end": 125
+  },
+  "babelSynsetID": "bn:00013240n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00013240n"
+ },
+ {
+  "charFragment": {
+   "start": 406,
+   "end": 411
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 127,
+   "end": 127
+  },
+  "babelSynsetID": "bn:00069576n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Schema_(Kant)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00069576n"
+ },
+ {
+  "charFragment": {
+   "start": 431,
+   "end": 437
+  },
+  "score": 0.711764705882353,
+  "tokenFragment": {
+   "start": 131,
+   "end": 131
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.0210838125108904,
+  "source": "BABELFY",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0.3235294117647059,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 474,
+   "end": 475
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 141,
+   "end": 141
+  },
+  "babelSynsetID": "bn:00015427n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Cape_(geography)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00015427n"
+ },
+ {
+  "charFragment": {
+   "start": 658,
+   "end": 664
+  },
+  "score": 0.711764705882353,
+  "tokenFragment": {
+   "start": 191,
+   "end": 191
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.0210838125108904,
+  "source": "BABELFY",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0.3235294117647059,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 681,
+   "end": 687
+  },
+  "score": 0.711764705882353,
+  "tokenFragment": {
+   "start": 195,
+   "end": 195
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.0210838125108904,
+  "source": "BABELFY",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0.3235294117647059,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 689,
+   "end": 693
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 197,
+   "end": 197
+  },
+  "babelSynsetID": "bn:00037742n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Genre",
+  "BabelNetURL": "http://babelnet.org/rdf/s00037742n"
+ },
+ {
+  "charFragment": {
+   "start": 695,
+   "end": 701
+  },
+  "score": 0.711764705882353,
+  "tokenFragment": {
+   "start": 199,
+   "end": 199
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.0210838125108904,
+  "source": "BABELFY",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0.3235294117647059,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 731,
+   "end": 734
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 209,
+   "end": 209
+  },
+  "babelSynsetID": "bn:00068049n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675560261667782656",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Rock_music",
+  "BabelNetURL": "http://babelnet.org/rdf/s00068049n"
+ }
+]

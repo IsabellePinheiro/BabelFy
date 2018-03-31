@@ -1,0 +1,254 @@
+[
+ {
+  "charFragment": {
+   "start": 13,
+   "end": 16
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 7,
+   "end": 7
+  },
+  "babelSynsetID": "bn:00045855n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676784349921075200",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Matinée_idol",
+  "BabelNetURL": "http://babelnet.org/rdf/s00045855n"
+ },
+ {
+  "charFragment": {
+   "start": 41,
+   "end": 44
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 28,
+   "end": 28
+  },
+  "babelSynsetID": "bn:00073964n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676784349921075200",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Star",
+  "BabelNetURL": "http://babelnet.org/rdf/s00073964n"
+ },
+ {
+  "charFragment": {
+   "start": 51,
+   "end": 55
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 30,
+   "end": 30
+  },
+  "babelSynsetID": "bn:00036522n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676784349921075200",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Match",
+  "BabelNetURL": "http://babelnet.org/rdf/s00036522n"
+ },
+ {
+  "charFragment": {
+   "start": 60,
+   "end": 67
+  },
+  "score": 0.7777777777777778,
+  "tokenFragment": {
+   "start": 32,
+   "end": 32
+  },
+  "babelSynsetID": "bn:00064417n",
+  "globalScore": 0.00682095006090134,
+  "source": "BABELFY",
+  "tweet": "676784349921075200",
+  "coherenceScore": 0.5,
+  "DBpediaURL": "http://dbpedia.org/resource/Princess",
+  "BabelNetURL": "http://babelnet.org/rdf/s00064417n"
+ },
+ {
+  "charFragment": {
+   "start": 60,
+   "end": 72
+  },
+  "score": 0.9566724436741768,
+  "tokenFragment": {
+   "start": 32,
+   "end": 33
+  },
+  "babelSynsetID": "bn:03292608n",
+  "globalScore": 0.06723507917174178,
+  "source": "BABELFY",
+  "tweet": "676784349921075200",
+  "coherenceScore": 0.5714285714285714,
+  "DBpediaURL": "http://dbpedia.org/resource/Princess_Leia",
+  "BabelNetURL": "http://babelnet.org/rdf/s03292608n"
+ },
+ {
+  "charFragment": {
+   "start": 69,
+   "end": 72
+  },
+  "score": 0.7941605839416058,
+  "tokenFragment": {
+   "start": 33,
+   "end": 33
+  },
+  "babelSynsetID": "bn:03292608n",
+  "globalScore": 0.06626065773447015,
+  "source": "BABELFY",
+  "tweet": "676784349921075200",
+  "coherenceScore": 0.5714285714285714,
+  "DBpediaURL": "http://dbpedia.org/resource/Princess_Leia",
+  "BabelNetURL": "http://babelnet.org/rdf/s03292608n"
+ },
+ {
+  "charFragment": {
+   "start": 75,
+   "end": 77
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 35,
+   "end": 35
+  },
+  "babelSynsetID": "bn:00081135n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676784349921075200",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/World_Health_Organization",
+  "BabelNetURL": "http://babelnet.org/rdf/s00081135n"
+ },
+ {
+  "charFragment": {
+   "start": 224,
+   "end": 232
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 80,
+   "end": 80
+  },
+  "babelSynsetID": "bn:01063743n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676784349921075200",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Whitelist",
+  "BabelNetURL": "http://babelnet.org/rdf/s01063743n"
+ },
+ {
+  "charFragment": {
+   "start": 236,
+   "end": 244
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 84,
+   "end": 84
+  },
+  "babelSynsetID": "bn:00067352n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676784349921075200",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Resource",
+  "BabelNetURL": "http://babelnet.org/rdf/s00067352n"
+ },
+ {
+  "charFragment": {
+   "start": 342,
+   "end": 345
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 116,
+   "end": 116
+  },
+  "babelSynsetID": "bn:00073964n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676784349921075200",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Star",
+  "BabelNetURL": "http://babelnet.org/rdf/s00073964n"
+ },
+ {
+  "charFragment": {
+   "start": 347,
+   "end": 350
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 117,
+   "end": 117
+  },
+  "babelSynsetID": "bn:00080439n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "676784349921075200",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Warfare",
+  "BabelNetURL": "http://babelnet.org/rdf/s00080439n"
+ },
+ {
+  "charFragment": {
+   "start": 554,
+   "end": 561
+  },
+  "score": 0.7777777777777778,
+  "tokenFragment": {
+   "start": 174,
+   "end": 174
+  },
+  "babelSynsetID": "bn:00064417n",
+  "globalScore": 0.00682095006090134,
+  "source": "BABELFY",
+  "tweet": "676784349921075200",
+  "coherenceScore": 0.5,
+  "DBpediaURL": "http://dbpedia.org/resource/Princess",
+  "BabelNetURL": "http://babelnet.org/rdf/s00064417n"
+ },
+ {
+  "charFragment": {
+   "start": 554,
+   "end": 566
+  },
+  "score": 0.9566724436741768,
+  "tokenFragment": {
+   "start": 174,
+   "end": 175
+  },
+  "babelSynsetID": "bn:03292608n",
+  "globalScore": 0.06723507917174178,
+  "source": "BABELFY",
+  "tweet": "676784349921075200",
+  "coherenceScore": 0.5714285714285714,
+  "DBpediaURL": "http://dbpedia.org/resource/Princess_Leia",
+  "BabelNetURL": "http://babelnet.org/rdf/s03292608n"
+ },
+ {
+  "charFragment": {
+   "start": 563,
+   "end": 566
+  },
+  "score": 0.7941605839416058,
+  "tokenFragment": {
+   "start": 175,
+   "end": 175
+  },
+  "babelSynsetID": "bn:03292608n",
+  "globalScore": 0.06626065773447015,
+  "source": "BABELFY",
+  "tweet": "676784349921075200",
+  "coherenceScore": 0.5714285714285714,
+  "DBpediaURL": "http://dbpedia.org/resource/Princess_Leia",
+  "BabelNetURL": "http://babelnet.org/rdf/s03292608n"
+ }
+]

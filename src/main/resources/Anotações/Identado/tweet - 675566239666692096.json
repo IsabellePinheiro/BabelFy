@@ -1,0 +1,722 @@
+[
+ {
+  "charFragment": {
+   "start": 10,
+   "end": 11
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 6,
+   "end": 6
+  },
+  "babelSynsetID": "bn:00015427n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Cape_(geography)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00015427n"
+ },
+ {
+  "charFragment": {
+   "start": 32,
+   "end": 38
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 10,
+   "end": 10
+  },
+  "babelSynsetID": "bn:00055975n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Muslim",
+  "BabelNetURL": "http://babelnet.org/rdf/s00055975n"
+ },
+ {
+  "charFragment": {
+   "start": 40,
+   "end": 44
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 11,
+   "end": 11
+  },
+  "babelSynsetID": "bn:00035768n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Force",
+  "BabelNetURL": "http://babelnet.org/rdf/s00035768n"
+ },
+ {
+  "charFragment": {
+   "start": 46,
+   "end": 52
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 12,
+   "end": 12
+  },
+  "babelSynsetID": "bn:00047600n",
+  "globalScore": 0.06315949290214834,
+  "source": "BABELFY",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0.6341463414634146,
+  "DBpediaURL": "http://dbpedia.org/resource/Islam",
+  "BabelNetURL": "http://babelnet.org/rdf/s00047600n"
+ },
+ {
+  "charFragment": {
+   "start": 46,
+   "end": 59
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 12,
+   "end": 13
+  },
+  "babelSynsetID": "bn:00078877n",
+  "globalScore": 0.0066803309800349195,
+  "source": "BABELFY",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0.2682926829268293,
+  "DBpediaURL": "http://dbpedia.org/resource/Ulama",
+  "BabelNetURL": "http://babelnet.org/rdf/s00078877n"
+ },
+ {
+  "charFragment": {
+   "start": 54,
+   "end": 59
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 13,
+   "end": 13
+  },
+  "babelSynsetID": "bn:00019026n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00019026n"
+ },
+ {
+  "charFragment": {
+   "start": 64,
+   "end": 69
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 15,
+   "end": 15
+  },
+  "babelSynsetID": "bn:00090280v",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00090280v"
+ },
+ {
+  "charFragment": {
+   "start": 80,
+   "end": 83
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 18,
+   "end": 18
+  },
+  "babelSynsetID": "bn:00093287v",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00093287v"
+ },
+ {
+  "charFragment": {
+   "start": 88,
+   "end": 95
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 20,
+   "end": 20
+  },
+  "babelSynsetID": "bn:00082138v",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00082138v"
+ },
+ {
+  "charFragment": {
+   "start": 111,
+   "end": 118
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 24,
+   "end": 24
+  },
+  "babelSynsetID": "bn:00064776n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00064776n"
+ },
+ {
+  "charFragment": {
+   "start": 123,
+   "end": 125
+  },
+  "score": 0.9014084507042254,
+  "tokenFragment": {
+   "start": 26,
+   "end": 26
+  },
+  "babelSynsetID": "bn:00083065v",
+  "globalScore": 0.0016194741769781625,
+  "source": "BABELFY",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0.1951219512195122,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00083065v"
+ },
+ {
+  "charFragment": {
+   "start": 127,
+   "end": 132
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 27,
+   "end": 27
+  },
+  "babelSynsetID": "bn:00055975n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Muslim",
+  "BabelNetURL": "http://babelnet.org/rdf/s00055975n"
+ },
+ {
+  "charFragment": {
+   "start": 134,
+   "end": 144
+  },
+  "score": 0.9008695652173913,
+  "tokenFragment": {
+   "start": 28,
+   "end": 28
+  },
+  "babelSynsetID": "bn:00046021n",
+  "globalScore": 0.013107619119917003,
+  "source": "BABELFY",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0.34146341463414637,
+  "DBpediaURL": "http://dbpedia.org/resource/Immigration",
+  "BabelNetURL": "http://babelnet.org/rdf/s00046021n"
+ },
+ {
+  "charFragment": {
+   "start": 147,
+   "end": 151
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 30,
+   "end": 30
+  },
+  "babelSynsetID": "bn:00045088n",
+  "globalScore": 0.008147979452921379,
+  "source": "BABELFY",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0.34146341463414637,
+  "DBpediaURL": "http://dbpedia.org/resource/Hypertext_Transfer_Protocol",
+  "BabelNetURL": "http://babelnet.org/rdf/s00045088n"
+ },
+ {
+  "charFragment": {
+   "start": 231,
+   "end": 239
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 73,
+   "end": 73
+  },
+  "babelSynsetID": "bn:01063743n",
+  "globalScore": 2.530428401528379E-5,
+  "source": "BABELFY",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0.024390243902439025,
+  "DBpediaURL": "http://dbpedia.org/resource/Whitelist",
+  "BabelNetURL": "http://babelnet.org/rdf/s01063743n"
+ },
+ {
+  "charFragment": {
+   "start": 243,
+   "end": 251
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 77,
+   "end": 77
+  },
+  "babelSynsetID": "bn:00067352n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Resource",
+  "BabelNetURL": "http://babelnet.org/rdf/s00067352n"
+ },
+ {
+  "charFragment": {
+   "start": 296,
+   "end": 305
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 88,
+   "end": 88
+  },
+  "babelSynsetID": "bn:00057380n",
+  "globalScore": 1.0121713606113515E-4,
+  "source": "BABELFY",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0.04878048780487805,
+  "DBpediaURL": "http://dbpedia.org/resource/Television_network",
+  "BabelNetURL": "http://babelnet.org/rdf/s00057380n"
+ },
+ {
+  "charFragment": {
+   "start": 336,
+   "end": 342
+  },
+  "score": 0.7785467128027682,
+  "tokenFragment": {
+   "start": 105,
+   "end": 105
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.0056934639034388525,
+  "source": "BABELFY",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0.36585365853658536,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 344,
+   "end": 348
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 107,
+   "end": 107
+  },
+  "babelSynsetID": "bn:00001972n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00001972n"
+ },
+ {
+  "charFragment": {
+   "start": 350,
+   "end": 355
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 109,
+   "end": 109
+  },
+  "babelSynsetID": "bn:00069576n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Schema_(Kant)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00069576n"
+ },
+ {
+  "charFragment": {
+   "start": 357,
+   "end": 368
+  },
+  "score": 0.9165474487362899,
+  "tokenFragment": {
+   "start": 111,
+   "end": 111
+  },
+  "babelSynsetID": "bn:00059480n",
+  "globalScore": 0.04863483387737544,
+  "source": "BABELFY",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0.7560975609756098,
+  "DBpediaURL": "http://dbpedia.org/resource/Organization",
+  "BabelNetURL": "http://babelnet.org/rdf/s00059480n"
+ },
+ {
+  "charFragment": {
+   "start": 370,
+   "end": 376
+  },
+  "score": 0.7785467128027682,
+  "tokenFragment": {
+   "start": 113,
+   "end": 113
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.0056934639034388525,
+  "source": "BABELFY",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0.36585365853658536,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 378,
+   "end": 389
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 115,
+   "end": 115
+  },
+  "babelSynsetID": "bn:00059480n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Organization",
+  "BabelNetURL": "http://babelnet.org/rdf/s00059480n"
+ },
+ {
+  "charFragment": {
+   "start": 391,
+   "end": 397
+  },
+  "score": 0.7785467128027682,
+  "tokenFragment": {
+   "start": 117,
+   "end": 117
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.0056934639034388525,
+  "source": "BABELFY",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0.36585365853658536,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 399,
+   "end": 409
+  },
+  "score": 1,
+  "tokenFragment": {
+   "start": 119,
+   "end": 119
+  },
+  "babelSynsetID": "bn:16781737n",
+  "globalScore": 4.048685442445406E-4,
+  "source": "BABELFY",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0.0975609756097561,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s16781737n"
+ },
+ {
+  "charFragment": {
+   "start": 411,
+   "end": 416
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 121,
+   "end": 121
+  },
+  "babelSynsetID": "bn:00069576n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Schema_(Kant)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00069576n"
+ },
+ {
+  "charFragment": {
+   "start": 436,
+   "end": 442
+  },
+  "score": 0.7785467128027682,
+  "tokenFragment": {
+   "start": 125,
+   "end": 125
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.0056934639034388525,
+  "source": "BABELFY",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0.36585365853658536,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 479,
+   "end": 480
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 135,
+   "end": 135
+  },
+  "babelSynsetID": "bn:00015427n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Cape_(geography)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00015427n"
+ },
+ {
+  "charFragment": {
+   "start": 660,
+   "end": 665
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 185,
+   "end": 185
+  },
+  "babelSynsetID": "bn:00069576n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Schema_(Kant)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00069576n"
+ },
+ {
+  "charFragment": {
+   "start": 667,
+   "end": 671
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 187,
+   "end": 187
+  },
+  "babelSynsetID": "bn:00062214n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Piazza",
+  "BabelNetURL": "http://babelnet.org/rdf/s00062214n"
+ },
+ {
+  "charFragment": {
+   "start": 673,
+   "end": 679
+  },
+  "score": 0.7785467128027682,
+  "tokenFragment": {
+   "start": 189,
+   "end": 189
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.0056934639034388525,
+  "source": "BABELFY",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0.36585365853658536,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 681,
+   "end": 685
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 191,
+   "end": 191
+  },
+  "babelSynsetID": "bn:00062214n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Piazza",
+  "BabelNetURL": "http://babelnet.org/rdf/s00062214n"
+ },
+ {
+  "charFragment": {
+   "start": 687,
+   "end": 693
+  },
+  "score": 0.7785467128027682,
+  "tokenFragment": {
+   "start": 193,
+   "end": 193
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.0056934639034388525,
+  "source": "BABELFY",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0.36585365853658536,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 710,
+   "end": 716
+  },
+  "score": 0.7785467128027682,
+  "tokenFragment": {
+   "start": 197,
+   "end": 197
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.0056934639034388525,
+  "source": "BABELFY",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0.36585365853658536,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 718,
+   "end": 723
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 199,
+   "end": 199
+  },
+  "babelSynsetID": "bn:00066884n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Region",
+  "BabelNetURL": "http://babelnet.org/rdf/s00066884n"
+ },
+ {
+  "charFragment": {
+   "start": 725,
+   "end": 730
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 201,
+   "end": 201
+  },
+  "babelSynsetID": "bn:00069576n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Schema_(Kant)",
+  "BabelNetURL": "http://babelnet.org/rdf/s00069576n"
+ },
+ {
+  "charFragment": {
+   "start": 751,
+   "end": 757
+  },
+  "score": 0.7785467128027682,
+  "tokenFragment": {
+   "start": 205,
+   "end": 205
+  },
+  "babelSynsetID": "bn:00322825n",
+  "globalScore": 0.0056934639034388525,
+  "source": "BABELFY",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0.36585365853658536,
+  "DBpediaURL": "http://dbpedia.org/resource/DBpedia",
+  "BabelNetURL": "http://babelnet.org/rdf/s00322825n"
+ },
+ {
+  "charFragment": {
+   "start": 1002,
+   "end": 1008
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 272,
+   "end": 272
+  },
+  "babelSynsetID": "bn:00055975n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Muslim",
+  "BabelNetURL": "http://babelnet.org/rdf/s00055975n"
+ },
+ {
+  "charFragment": {
+   "start": 1206,
+   "end": 1210
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 329,
+   "end": 329
+  },
+  "babelSynsetID": "bn:00035768n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Force",
+  "BabelNetURL": "http://babelnet.org/rdf/s00035768n"
+ },
+ {
+  "charFragment": {
+   "start": 1410,
+   "end": 1415
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 386,
+   "end": 386
+  },
+  "babelSynsetID": "bn:00055975n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675566239666692096",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Muslim",
+  "BabelNetURL": "http://babelnet.org/rdf/s00055975n"
+ }
+]

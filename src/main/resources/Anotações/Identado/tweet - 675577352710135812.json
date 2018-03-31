@@ -1,0 +1,92 @@
+[
+ {
+  "charFragment": {
+   "start": 10,
+   "end": 18
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 6,
+   "end": 6
+  },
+  "babelSynsetID": "bn:00020927n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675577352710135812",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Comic_book",
+  "BabelNetURL": "http://babelnet.org/rdf/s00020927n"
+ },
+ {
+  "charFragment": {
+   "start": 20,
+   "end": 24
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 7,
+   "end": 7
+  },
+  "babelSynsetID": "bn:00074827n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675577352710135812",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Sturgeon",
+  "BabelNetURL": "http://babelnet.org/rdf/s00074827n"
+ },
+ {
+  "charFragment": {
+   "start": 26,
+   "end": 33
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 8,
+   "end": 8
+  },
+  "babelSynsetID": "bn:00030618n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675577352710135812",
+  "coherenceScore": 0,
+  "DBpediaURL": "",
+  "BabelNetURL": "http://babelnet.org/rdf/s00030618n"
+ },
+ {
+  "charFragment": {
+   "start": 39,
+   "end": 46
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 10,
+   "end": 10
+  },
+  "babelSynsetID": "bn:00068696n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675577352710135812",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Saturday",
+  "BabelNetURL": "http://babelnet.org/rdf/s00068696n"
+ },
+ {
+  "charFragment": {
+   "start": 196,
+   "end": 204
+  },
+  "score": 0,
+  "tokenFragment": {
+   "start": 58,
+   "end": 58
+  },
+  "babelSynsetID": "bn:01063743n",
+  "globalScore": 0,
+  "source": "MCS",
+  "tweet": "675577352710135812",
+  "coherenceScore": 0,
+  "DBpediaURL": "http://dbpedia.org/resource/Whitelist",
+  "BabelNetURL": "http://babelnet.org/rdf/s01063743n"
+ }
+]
